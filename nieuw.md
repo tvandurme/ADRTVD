@@ -6,4 +6,12 @@
 
 Dit is de url van [de slides](https://gitpitch.com/eothein/workshop-git-itlab#/11/9)
 
-Nog een stukje.
+**Laat maar**
+
+1. Eerste stukje
+2. Tweede stukje
+
+```
+System.out.printline()
+```
+
